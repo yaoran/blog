@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[this is my life]]></title>
   <subtitle><![CDATA[ever youngful,ever weeping]]></subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   <link href="http://yaoran.github.io/blog/"/>
   <updated>2015-10-08T13:55:30.000Z</updated>
   <id>http://yaoran.github.io/blog/</id>
